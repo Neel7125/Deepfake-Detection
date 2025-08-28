@@ -1,12 +1,5 @@
 # Deep Fake Detection using Deep Neural Networks
 
-
-## Team members
-
-- Adil Khatri - adilaqzma@gmail.com
-- Harsh Chotaliya - harshchotaliya269@gmail.com
-- Shubham Kanojiya - shubhamskanojiya9@gmail.com
-
 ## Problem Statement
 
 Detecting deep fake videos and images has become increasingly challenging with the proliferation of sophisticated manipulation techniques. This project aims to develop and implement a Deep Neural Network (DNN)-based solution to accurately identify and distinguish between authentic and manipulated visual content, addressing the growing concerns of misinformation and deceptive media in digital platforms.
@@ -91,3 +84,4 @@ Detecting deep fake videos and images has become increasingly challenging with t
 ## System Architecture
 
 <img src="./Outputs/Architecture.png" width="1000">
+
