@@ -1,0 +1,14 @@
+The trained model weights are too large to be stored directly on GitHub (1.49 GB).  
+You can download the `.pth` file from Kaggle:
+
+🔗 [best_model.pth](www.kaggle.com/models/neel7125/best_model)
+
+After downloading, place the file inside the project directory:
+Deepfake-Detection
+        |
+        |----- Code
+        |        |-------best_model.pth
+        |        |...
+        |...
+
+Path : Deepfake Detection/code/best_model.pth
