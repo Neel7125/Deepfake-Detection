@@ -72,7 +72,7 @@ we normalized the images using the mean and std. deviation.
 - By this, it helps the model escape local minima and fine-tune performance in later training stages.
 
 ### Loss Function: ***Binary Cross Entropy Function***
-<img width="708" height="128" alt="image" src="https://github.com/user-attachments/assets/07430da2-f53a-4f5c-be4f-c5f9352b8d7f" />\
+<img width="708" height="128" alt="image" src="https://github.com/user-attachments/assets/07430da2-f53a-4f5c-be4f-c5f9352b8d7f" />
 
 
 - Where, **$y_i$** is the ground truth for sample i
